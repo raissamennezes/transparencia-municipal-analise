@@ -1,0 +1,16 @@
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+# Packaging
+build/
+dist/
+*.egg-info/
+*.zip
+
+# IDEs / editors
+.idea/
+.vscode/
+desktop.ini
