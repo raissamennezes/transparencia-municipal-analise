@@ -1,0 +1,53 @@
+Cod_IBGE,Municipio,Populacao_2024
+1100015,Alta Floresta D'Oeste,22853
+1100023,Ariquemes,108573
+1100031,Cabixi,5690
+1100049,Cacoal,97637
+1100056,Cerejeiras,16975
+1100064,Colorado do Oeste,16588
+1100072,Corumbiara,8001
+1100080,Costa Marques,13522
+1100098,Espigão D'Oeste,32717
+1100106,Guajará-Mirim,43553
+1100114,Jaru,55583
+1100122,Ji-Paraná,139359
+1100130,Machadinho D'Oeste,34063
+1100148,Nova Brasilândia D'Oeste,16504
+1100155,Ouro Preto do Oeste,38681
+1100189,Pimenta Bueno,39053
+1100205,Porto Velho,514873
+1100254,Presidente Médici,20518
+1100262,Rio Crespo,3753
+1100288,Rolim de Moura,62559
+1100296,Santa Luzia D'Oeste,7877
+1100304,Vilhena,108528
+1100320,São Miguel do Guaporé,22267
+1100338,Nova Mamoré,28496
+1100346,Alvorada D'Oeste,13837
+1100379,Alto Alegre dos Parecis,12263
+1100403,Alto Paraíso,17463
+1100452,Buritis,30729
+1100502,Novo Horizonte do Oeste,8056
+1100601,Cacaulândia,4345
+1100700,Campo Novo de Rondônia,9225
+1100809,Candeias do Jamari,24163
+1100908,Castanheiras,3456
+1100924,Chupinguaia,10129
+1100940,Cujubim,15883
+1101005,Governador Jorge Teixeira,8420
+1101104,Itapuã do Oeste,9209
+1101203,Ministro Andreazza,6657
+1101302,Mirante da Serra,9740
+1101401,Monte Negro,12241
+1101435,Nova União,6577
+1101450,Parecis,4390
+1101468,Pimenteiras do Oeste,2311
+1101476,Primavera de Rondônia,3279
+1101484,São Felipe D'Oeste,5605
+1101492,São Francisco do Guaporé,17511
+1101500,Seringueiras,12954
+1101559,Teixeirópolis,4536
+1101609,Theobroma,8540
+1101708,Urupá,11377
+1101757,Vale do Anari,8265
+1101807,Vale do Paraíso,6843
